@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [--Will appear later--]
+- Live Site URL: [https://iiirnby.github.io/]
 
 ## My process
 
@@ -78,5 +78,5 @@ Unfortunately, the GitHub Copilot built into vs code did not work for me, so I c
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://iiirnby.github.io/]
+- Frontend Mentor - [@IIIRNBY]
